@@ -1,0 +1,26 @@
+[
+  {
+    "name": "schedule_post",
+    "label": "Schedule Post",
+    "features": [
+      "content",
+      "collaborate",
+      "marketing",
+      "performance",
+      "accounts"
+    ]
+  },
+  {
+    "name": "keywords",
+    "label": "Keywords",
+    "features": [
+      "hashtag",
+      "keywords",
+      "influencers",
+      "content",
+      "emails",
+      "competitors",
+      "SEO"
+    ]
+  }
+]

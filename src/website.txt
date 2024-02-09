@@ -1,0 +1,17 @@
+The website is a single page, similar to https://stripealternatives.com/ and 
+https://allgpts.co/ 
+Use a light-colored background 
+The title, subtitle and "Add your service" phrase must be centered 
+Put the categories inside a border, the category's name is into featuresList.json tag label 
+Once pressed a category must load the features in this file and add as first feature the "All" one that load every sites for the selected caterory, at the end the "Free" and "AI" to filter in the free and ai tag of json of sitesList.json 
+The card data is in sitesList.json, use name, description,rating and url for the card, use the features array for the search, as well the free (boolean) and ai (boolean) 
+For the features search check if the array contain the word present in the featuresList.json that the user select 
+The card must have a border and ones clicked must open the url in a new tab
+Use the font you think is good for this websites as well as the colours
+Use Css standard
+The border must have rounder corners
+Must be responsive, good for desktop and mobile
+Use Vue3 Composition API
+
+Accept every suggestion
+If you have any question or doubt please ask before start to work

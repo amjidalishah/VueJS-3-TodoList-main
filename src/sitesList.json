@@ -1,0 +1,65 @@
+  [
+    {
+      "name": "Buffer",
+      "description": "Buffer is a social media management tool that helps businesses and individuals schedule, publish, and analyze their social media content.",
+      "features": [
+        "schedule posts to Facebook, Twitter, LinkedIn, Instagram, Pinterest, and Google My Business",
+        "analyze your social media performance",
+        "create and edit content directly in Buffer",
+        "collaborate with other users",
+        "use AI to automate your social media marketing"
+      ],
+      "free": true,
+      "ai": false,
+      "rating": 9,
+      "type": "schedule_post",
+      "sponsor": 0
+    },
+    {
+      "name": "Later",
+      "url": "https://later.com/",
+      "description": "Later is a social media management platform that helps businesses and individuals schedule and publish content to their social media accounts.",
+      "features": [
+        "schedule posts to Facebook, Instagram, Twitter, Pinterest, LinkedIn, and TikTok",
+        "create and edit content",
+        "analyze your social media data",
+        "collaborate with other users",
+        "use AI to automate your social media marketing"
+      ],
+      "free": true,
+      "ai": true,
+      "rating": 8.5,
+      "type": "schedule_post",
+      "sponsor": 0
+    },
+    {
+      "name": "Display Purposes",
+      "url": "https://displaypurposes.com/",
+      "description": "Display Purposes is a free tool that helps you find the right hashtags for your social media posts.",
+      "features": [
+        "find relevant hashtags",
+        "analyze hashtag performance",
+        "create hashtag strategies"
+      ],
+      "free": true,
+      "ai": false,
+      "rating": 7,
+      "type": "keywords",
+      "sponsor": 0
+    },
+    {
+      "name": "Answer The Public",
+      "url": "https://answerthepublic.com/it",
+      "description": "AnswerThePublic is a keyword research tool that helps you understand what people are asking about online.",
+      "features": [
+        "identify search intent",
+        "find related keywords",
+        "generate content ideas"
+      ],
+      "free": true,
+      "ai": true,
+      "rating": 8.5,
+      "type": "keywords",
+      "sponsor": 0
+    }
+  ]
